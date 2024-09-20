@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(212, 234, 238);
+    padding: opx ! important;
+    margin: opx !important;
+}
+header{
+    background-color: rgb(91, 197, 224);
+    color: rgb(224, 47, 24);
+    text-align: left;
+    font-size: 30px;
+}
+nav{
+    color: gold;
+    font-size: 15px;
+    text-align: left;
+    
+}
+header nav ul a{
+    color: gold;
+    text-decoration: none;
+    font-size: 20px;
+}
+header nav ul a:hover{
+    color: burlywood;
+    border-bottom-color: gold;
+}

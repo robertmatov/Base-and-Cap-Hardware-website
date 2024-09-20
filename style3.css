@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 234, 238);
+    padding: opx ! important;
+    margin: opx !important;
+}
+header{
+    background-color: rgb(91, 197, 224);
+    color: rgb(224, 47, 24);
+}
+navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
